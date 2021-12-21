@@ -83,6 +83,186 @@
 }
 
 
+/* TEXT */
+
+.text_uppercase{
+    text-transform: uppercase;
+}
+.text_lowercase{
+    text-transform: lowercase;
+}
+.text_start{
+    text-align: left;
+}
+.text_center{
+    text-align: center;
+}
+.text_end{
+    text-align: right;
+}
+.text_white{
+    color: white;
+}
+.text_black{
+    color: black;
+}
+.text_red{
+    color: red;
+}
+.text_green{
+    color: green;
+}
+.text_yellow{
+    color: yellow;
+}
+.text_purple{
+    color: purple;
+}
+.text_blue{
+    color: blue;
+}
+.text_orange{
+    color: orange;
+}
+.text_salmon{
+    color: salmon;
+}
+
+
+/* BACKGROUND */
+
+.bg_cover{
+    background-size: cover;
+}
+.bg_contain{
+    background-size: contain;
+}
+.bg_repeat{
+    background-repeat: repeat;
+}
+.bg_no_repeat{
+    background-repeat: no-repeat;
+}
+.bg_top{
+    background-position: top;
+}
+.bg_end{
+    background-position: right;
+}
+.bg_bottom{
+    background-position: bottom;
+}
+.bg_start{
+    background-position: left;
+}
+.bg_white{
+    background-color: white;
+}
+.bg_black{
+    background-color: black;
+}
+.bg_red{
+    background-color: red;
+}
+.bg_green{
+    background-color: green;
+}
+.bg_yellow{
+    background-color: yellow;
+}
+.bg_purple{
+    background-color: purple;
+}
+.bg_blue{
+    background-color: blue;
+}
+.bg_orange{
+    background-color: orange;
+}
+.bg_salmon{
+    background-color: salmon;
+}
+
+
+/* BORDER */
+
+.border{
+    border-style: solid;
+}
+.border_top{
+    border-top-style: solid;
+}
+.border_end{
+    border-right-style: solid;
+}
+.border_bottom{
+    border-bottom-style: solid;
+}
+.border_start{
+    border-left-style: solid;
+}
+.border_1{
+    border-width: 1px;
+}
+.border_2{
+    border-width: 2px;
+}
+.border_3{
+    border-width: 3px;
+}
+.border_4{
+    border-width: 4px;
+}
+.border_5{
+    border-width: 5px;
+}
+.border_radius_10p{
+    border-radius: 10px;
+}
+.border_radius_20p{
+    border-radius: 20px;
+}
+.border_radius_30p{
+    border-radius: 30px;
+}
+.border_radius_40p{
+    border-radius: 40px;
+}
+.border_radius_50p{
+    border-radius: 50px;
+}
+.rounded_circle{
+    border-radius: 50%;
+}
+.border_white{
+    border-color: white;
+}
+.border_black{
+    border-color: black;
+}
+.border_red{
+    border-color: red;
+}
+.border_green{
+    border-color: green;
+}
+.border_yellow{
+    border-color: yellow;
+}
+.border_purple{
+    border-color: purple;
+}
+.border_blue{
+    border-color: blue;
+}
+.border_orange{
+    border-color: orange;
+}
+.border_salmon{
+    border-color: salmon;
+}
+
+
 
 /* PADDING */
 
